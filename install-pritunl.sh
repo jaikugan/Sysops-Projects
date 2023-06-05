@@ -25,3 +25,4 @@ sudo apt -y install pritunl mongodb-org
 sudo systemctl enable mongod pritunl
 sudo systemctl start mongod pritunl
 # end of script
+#Happy to write this script
