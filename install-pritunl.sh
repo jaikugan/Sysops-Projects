@@ -26,3 +26,4 @@ sudo systemctl enable mongod pritunl
 sudo systemctl start mongod pritunl
 # end of script
 #Happy to write this script
+#Adding a new line
